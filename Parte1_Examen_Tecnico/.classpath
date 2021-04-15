@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/axis.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/org.apache.commons.codec.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/blLogger.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/blParametros.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/blUtils.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/blUtilsDma.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/bridge.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/interfazCapaMedia/WebContent/WEB-INF/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="src/connectionDB/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
